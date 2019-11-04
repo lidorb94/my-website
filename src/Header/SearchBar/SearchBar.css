@@ -1,0 +1,16 @@
+.SearchBar {
+    display: flex;
+    align-items: center;
+}
+
+.SearchBar input {
+    border: 2.5px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: #FDF1F8;
+}
+
+.SearchBar input::placeholder {
+    color: black;
+    padding: 10px;
+}

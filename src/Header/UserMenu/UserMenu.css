@@ -1,0 +1,14 @@
+.UserMenu {
+    position: relative;
+}
+
+.UserMenu nav {
+    position: absolute;
+    text-decoration: none;
+    background-color: #DA4E60;
+    padding: 10px;
+}
+
+.Expand-hide {
+    display: none;
+}

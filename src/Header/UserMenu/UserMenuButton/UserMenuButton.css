@@ -1,0 +1,12 @@
+.UserMenuButton {
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+    outline: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.UserMenuButton:hover {
+    margin-top: 5px; 
+}
